@@ -1,0 +1,8 @@
+# learning_rate, discount_factor, exploration_prob, exploration_decay, exploration_min, episodes
+0.8, 0.95, 1.0, 0.995, 0.01, 500, 
+0.4, 0.95, 1.0, 0.9985, 0.01, 500
+0.4, 0.95, 1.0, 0.9985, 0.01, 1500
+0.3, 0.99, 1.0, 0.999, 0.001, 1500
+
+
+
